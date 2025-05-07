@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\peggy\\OneDrive\\\u684C\u9762\\SchoolFile\\113-2\\\u4E92\u52D5\u6A5F\u5668\u4EBA\\\u8AB2\u5802\u7DF4\u7FD2\\0423\\ChatGPT_hw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7256F3CB-726B-4099-9F0B-97BDE2E87156}|ChatGPT_hw\\ChatGPT_hw.csproj|c:\\users\\peggy\\onedrive\\\u684C\u9762\\schoolfile\\113-2\\\u4E92\u52D5\u6A5F\u5668\u4EBA\\\u8AB2\u5802\u7DF4\u7FD2\\0423\\chatgpt_hw\\chatgpt_hw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7256F3CB-726B-4099-9F0B-97BDE2E87156}|ChatGPT_hw\\ChatGPT_hw.csproj|solutionrelative:chatgpt_hw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7256F3CB-726B-4099-9F0B-97BDE2E87156}|ChatGPT_hw\\ChatGPT_hw.csproj|C:\\Users\\peggy\\OneDrive\\\u684C\u9762\\SchoolFile\\113-2\\\u4E92\u52D5\u6A5F\u5668\u4EBA\\\u8AB2\u5802\u7DF4\u7FD2\\0423\\ChatGPT_hw\\chatgpt_hw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7256F3CB-726B-4099-9F0B-97BDE2E87156}|ChatGPT_hw\\ChatGPT_hw.csproj|solutionrelative:chatgpt_hw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\peggy\\OneDrive\\\u684C\u9762\\SchoolFile\\113-2\\\u4E92\u52D5\u6A5F\u5668\u4EBA\\\u8AB2\u5802\u7DF4\u7FD2\\0423\\ChatGPT_hw\\ChatGPT_hw\\Form1.cs",
+              "RelativeDocumentMoniker": "ChatGPT_hw\\Form1.cs",
+              "ToolTip": "C:\\Users\\peggy\\OneDrive\\\u684C\u9762\\SchoolFile\\113-2\\\u4E92\u52D5\u6A5F\u5668\u4EBA\\\u8AB2\u5802\u7DF4\u7FD2\\0423\\ChatGPT_hw\\ChatGPT_hw\\Form1.cs",
+              "RelativeToolTip": "ChatGPT_hw\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwEEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:28:00.749Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\peggy\\OneDrive\\\u684C\u9762\\SchoolFile\\113-2\\\u4E92\u52D5\u6A5F\u5668\u4EBA\\\u8AB2\u5802\u7DF4\u7FD2\\0423\\ChatGPT_hw\\ChatGPT_hw\\Form1.cs",
+              "RelativeDocumentMoniker": "ChatGPT_hw\\Form1.cs",
+              "ToolTip": "C:\\Users\\peggy\\OneDrive\\\u684C\u9762\\SchoolFile\\113-2\\\u4E92\u52D5\u6A5F\u5668\u4EBA\\\u8AB2\u5802\u7DF4\u7FD2\\0423\\ChatGPT_hw\\ChatGPT_hw\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "ChatGPT_hw\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:24:02.943Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
