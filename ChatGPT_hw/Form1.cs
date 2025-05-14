@@ -25,6 +25,7 @@ namespace ChatGPT_hw
             this.TxtHint(); // 文字提示
             btnSend.Click += btnSend_Click;
             btnSave.Click += btnSave_Click;
+            btnSave.Enabled = false;
         }
         
         private void btnSend_Click(object sender, EventArgs e)
@@ -62,6 +63,7 @@ namespace ChatGPT_hw
             string FilePath = "紀錄"+fileNum.ToString()+".txt";
             try
             {
+                fileNum++;
                 using (StreamWriter writer1 = new StreamWriter(FilePath, false, Encoding.UTF8))
                 {
                     writer1.WriteLine(txtContent.Text);
@@ -85,7 +87,7 @@ namespace ChatGPT_hw
 
             if (!isSystemMessageAdded)
             {
-                chatHistory.Insert(0, new { role = "system", content = "請你幫忙撰寫信件，產生出信件的標題與內容。不需要列出收件人與寄件人。" });
+                chatHistory.Insert(0, new { role = "system", content = "請你幫忙撰寫500字以內的信件，產生出郵件主旨以及內容。不需要列出收件人與寄件人。" });
                 isSystemMessageAdded = true;
             }
 
